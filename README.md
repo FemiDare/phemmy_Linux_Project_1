@@ -12,3 +12,5 @@ cd: [Change Directory] a command used to change or switch the directory one is w
 
 ls: This is a command used to list the folders and or files contained in a directory and can be used with flags for specific listings
 
+![Screenshot 2023-08-10 230413](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/05102a56-12a7-45fa-9540-c9e1e9a6354d)
+
