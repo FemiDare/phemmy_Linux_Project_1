@@ -24,3 +24,27 @@ rmdir: [ReMove DIRectory] This is a command used to delete a directory
 
 ![Screenshot 2023-08-13 054555](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/bf3dace1-13df-4231-8976-0d38c963afac)
 
+touch: This is a command used to create or generate a file in a specified directory
+
+rm: [ReMove] This command is used to remove or delete a file
+
+locate: This is a command used to locate a file in the system
+
+find: This is a command used to find a file in a specific directory
+
+grep: [Global Regular Expression Print] This command is used to find a word in a specific file
+
+df: A command used to report the usage of system disk space
+
+![Screenshot 2023-08-13 063156](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/4f3c8cc5-69ce-43d4-b1fc-b454bcb198e2)
+
+du: A command used to check the space a file or directory takes up
+
+head: This is a command used to view the first ten lines of a text file
+
+tail: This is a command used to view the last ten lines of a text file
+
+diff: [DIFFerence] this is a command used to compare the contents of two files line by line
+
+![Screenshot 2023-08-13 122508](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/1e57513f-54c8-42ed-8c96-4f6c525c7830)
+
