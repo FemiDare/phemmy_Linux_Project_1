@@ -60,3 +60,44 @@ top: This is a command that will display the real-time view and all the running 
 
 ![Screenshot 2023-08-18 030331](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/ff64eebf-1e2d-4d36-becc-88c5236daecb)
 
+History: This is a command that displays previously executed commands up to as much as the last 500 entries
+
+![Screenshot 2023-08-18 030604](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/1cb4db5f-3f33-4fe4-ba84-7c51c3a1b8b9)
+
+![Screenshot 2023-08-18 030918](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/a9598ce4-67a0-41da-9110-d1f21899c801)
+
+man: [MANual] This command displays the user manual of any command specified or used in the terminal
+
+echo: This is a command used to display a string or line of text using the standard output
+
+zip: This is a command used in compressing files into a zip or archive folder
+
+unzip: This command extracts files that were compressed in an archive or zip file or folder
+
+![Screenshot 2023-08-18 031037](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/61da3ccd-b34d-41b1-9a89-8d1e0df5e328)
+
+![Screenshot 2023-08-18 032024](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/de439652-6076-44b9-a857-c61ce2b963aa)
+
+hostname: This is a command used to display the system's hostname
+
+useradd: This is a command used to add a user or create an account for a new user in the system
+
+passwd: This command is used in creating passwords
+
+userdel: This command is used to delete an account or user in the system
+
+apt-get: This command lets you retrieve bundles or information from authenticated sources to install/update/manage/remove software and its dependencies
+
+chown: This is a command used to change the ownership of a file or directory between users or different accounts
+
+![Screenshot 2023-08-18 033113](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/3ef43cfc-0fc2-414b-9755-df14ca3dea0f)
+
+![Screenshot 2023-08-18 033207](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/e61630cb-2e9c-440d-a244-d979eee20e4d)
+
+alias: This command allows you create a shortcut with the same functionality as a command
+
+unalias: This command used to delete and existing alias
+
+ps: [Process Status] This command shows a snapshot of all the running processes on a system
+
+![Screenshot 2023-08-18 034918](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/5da4a950-d9ce-43e7-ad88-e777dd52cf54)
