@@ -48,3 +48,15 @@ diff: [DIFFerence] this is a command used to compare the contents of two files l
 
 ![Screenshot 2023-08-13 122508](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/1e57513f-54c8-42ed-8c96-4f6c525c7830)
 
+chmod: This is a command that modifies a directory or file's read/write/execute permissions
+
+![Screenshot 2023-08-18 025202](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/40467829-4451-4e1f-a0e6-7f5da2a86b31)
+
+uname: [Unix NAME] This command is used to display the specifications of your Linux system and hardware
+
+top: This is a command that will display the real-time view and all the running processes of the current system in a Linux Terminal
+
+![Screenshot 2023-08-18 030200](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/14656c43-36d2-4b20-9dca-6e781dc794f3)
+
+![Screenshot 2023-08-18 030331](https://github.com/FemiDare/phemmy_Linux_Project_1/assets/140294606/ff64eebf-1e2d-4d36-becc-88c5236daecb)
+
